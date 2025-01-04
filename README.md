@@ -62,15 +62,6 @@ counter-app/
 └── README.md         # Documentation
 ```
 
----
-
-## Screenshots
-
-### Default View
-![Default View](https://via.placeholder.com/600x400?text=Default+View)
-
-### Hurry Effect
-![Hurry Effect](https://via.placeholder.com/600x400?text=Hurry+Effect)
 
 ---
 
