@@ -1,7 +1,7 @@
 
 # Counter App
 
-A simple and interactive counter application built using React. This app demonstrates the use of React hooks, dynamic styling, and animations for a modern and responsive user experience.
+A simple and interactive counter application built using React. This app demonstrates the use of React hooks, dynamic styling, and responsive user experience.
 
 ---
 
@@ -13,15 +13,13 @@ A simple and interactive counter application built using React. This app demonst
 - **Dynamic Styling**:
   - Positive counter values are displayed in green.
   - Negative counter values are displayed in red.
-  - A "Hurry" animation is triggered when the counter reaches 10 or more.
-- **Smooth Animations**: Buttons and text have subtle animations for enhanced interactivity.
-
+  
 ---
 
 ## Technologies Used
 
 - **React**: Frontend library for building the UI.
-- **CSS**: For styling and animations.
+- **CSS**: For styling.
 
 ---
 
